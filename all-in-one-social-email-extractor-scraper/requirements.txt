@@ -1,0 +1,4 @@
+requests
+
+all-in-one-social-email-extractor-scraper/.keep
+textThis folder contains essential scripts and is required for project structure.
