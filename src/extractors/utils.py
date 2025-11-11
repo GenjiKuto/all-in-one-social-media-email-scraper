@@ -1,0 +1,8 @@
+thonimport random
+
+def get_random_user_agent():
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3)"
+    ]
+    return random.choice(user_agents)
