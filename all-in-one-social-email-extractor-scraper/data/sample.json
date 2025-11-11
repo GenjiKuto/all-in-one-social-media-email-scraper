@@ -1,0 +1,16 @@
+[
+    {
+        "social_media_url": "https://www.linkedin.com/in/john-doe/",
+        "email_address": "emailjohn-doe@linkedin.com",
+        "platform_name": "LinkedIn",
+        "location": "New York, USA",
+        "domain_type": "Business"
+    },
+    {
+        "social_media_url": "https://www.facebook.com/mark.zuckerberg",
+        "email_address": "emailmark-zuckerberg@facebook.com",
+        "platform_name": "Facebook",
+        "location": "Palo Alto, CA",
+        "domain_type": "Business"
+    }
+]
