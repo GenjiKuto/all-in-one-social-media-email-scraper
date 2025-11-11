@@ -1,0 +1,10 @@
+{
+  "linkedin_api_key": "your-linkedin-api-key",
+  "facebook_api_key": "your-facebook-api-key",
+  "youtube_api_key": "your-youtube-api-key",
+  "twitter_api_key": "your-twitter-api-key",
+  "instagram_api_key": "your-instagram-api-key",
+  "reddit_api_key": "your-reddit-api-key",
+  "pinterest_api_key": "your-pinterest-api-key",
+  "tiktok_api_key": "your-tiktok-api-key"
+}
