@@ -1,0 +1,2 @@
+# Sample input file for social media profiles
+# Provide URLs or keywords to scrape
