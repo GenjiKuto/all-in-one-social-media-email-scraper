@@ -1,0 +1,6 @@
+{
+  "platforms": ["Facebook", "Twitter", "Instagram", "LinkedIn"],
+  "keyword": "marketing",
+  "scrape_interval": 60,
+  "retry_delay": 5
+}
